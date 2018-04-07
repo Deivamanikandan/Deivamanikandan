@@ -115,3 +115,8 @@ p{
 .box{
     border: 5px solid activeborder;
 }
+
+.footer{
+    display: inline-block;
+    height: 25%;
+}
